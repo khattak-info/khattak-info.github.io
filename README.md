@@ -1,8 +1,14 @@
-# Contentful Gatsby Starter Blog
+---
+description: >-
+  Welcome to the exciting world of Information Technology with Dr. Hasan Ali
+  Khattak
+---
+
+# Hasan Ali Khattak
 
 Create a [Gatsby](http://gatsbyjs.com/) blog powered by [Contentful](https://www.contentful.com). This is a simplified version of the [Gatsby Contentful Starter](https://github.com/contentful-userland/gatsby-contentful-starter) which is maintained by our Community.
 
-![The index page of the starter blog](https://rawgit.com/contentful-userland/gatsby-contentful-starter/master/screenshot.jpg "The index page of the starter blog")
+![The index page of the starter blog](https://rawgit.com/contentful-userland/gatsby-contentful-starter/master/screenshot.jpg)
 
 Static sites are scalable, secure and have very little required maintenance. They come with a drawback though. Not everybody feels good editing files, building a project and uploading it somewhere. This is where Contentful comes into play.
 
@@ -10,9 +16,9 @@ With Contentful and Gatsby you can connect your favorite static site generator w
 
 ## Features
 
-- Simple content model and structure. Easy to adjust to your needs.
-- Use the [synchronization feature](https://www.contentful.com/developers/docs/references/content-delivery-api/#/reference/synchronization) of our [Delivery API](https://www.contentful.com/developers/docs/references/content-delivery-api/).
-- Responsive/adaptive images via [gatsby-image](https://www.gatsbyjs.org/packages/gatsby-image/) and our [Images API](https://www.contentful.com/developers/docs/references/content-delivery-api/#/reference/synchronization/initial-synchronization-of-entries-of-a-specific-content-type).
+* Simple content model and structure. Easy to adjust to your needs.
+* Use the [synchronization feature](https://www.contentful.com/developers/docs/references/content-delivery-api/#/reference/synchronization) of our [Delivery API](https://www.contentful.com/developers/docs/references/content-delivery-api/).
+* Responsive/adaptive images via [gatsby-image](https://www.gatsbyjs.org/packages/gatsby-image/) and our [Images API](https://www.contentful.com/developers/docs/references/content-delivery-api/#/reference/synchronization/initial-synchronization-of-entries-of-a-specific-content-type).
 
 ## Getting started
 
